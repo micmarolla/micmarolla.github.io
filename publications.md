@@ -3,6 +3,8 @@ layout: page
 title: Publications
 ---
 
+Page under construction
+<!-- 
 <div class="posts">
   {% for post in site.posts %}
   <div class="post">
@@ -34,4 +36,4 @@ title: Publications
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
-</div>
+</div> -->

@@ -11,6 +11,8 @@ As a robotics engineer with expertise in R&D, I design and develop cutting-edge 
 My primary interests lie in advanced control strategies and embedded systems.
 Currently, I am working mainly with UAVs and PX4 stack.
 
+You can find videos about the projects I worked on in [my youtube channel](https://www.youtube.com/@michele5802/videos).
+
 Take a look at [my CV here](assets/pdf/cv.pdf).
 <br/><br/>
 
@@ -77,3 +79,4 @@ Focusing on customizing the PX4 firmware, I have the capability to engineer spec
 
 If you wish to know more about my work, please take a look at [the projects I worked on](projects) or [my publications](publications).
 
+<br/><br/>
