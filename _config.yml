@@ -2,7 +2,7 @@
 title:               Michele Marolla
 tagline:             R&D Robotics Engineer
 description:         'As a robotics engineer, I try to live in a closed-loop fashion: make an error, acknowledge it, and act to improve.'
-url:                 'github.com/micmarolla/micmarolla.github.io'
+url:                 'micmarolla.github.io'
 baseurl:             ''
 paginate:            5
 permalink:           pretty
