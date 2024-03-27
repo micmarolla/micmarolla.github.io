@@ -3,22 +3,21 @@ layout: page
 title: Publications
 ---
 
-Page under construction
 
-<!-- 
 <div class="posts">
   {% for post in site.posts %}
   <div class="post">
-    <h1 class="post-title">
+    <h2 class="post-title">
       <a href="{{ post.url | absolute_url }}">
         {{ post.title }}
       </a>
-    </h1>
+    </h2>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <span class="post-date">{{ post.date | date: "%Y" }}</span>
 
     {{ post.content }}
   </div>
+  <hr/>
   {% endfor %}
 </div>
 
@@ -37,4 +36,4 @@ Page under construction
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
-</div> -->
+</div>
