@@ -77,6 +77,12 @@ Focusing on customizing the PX4 firmware, I have the capability to engineer spec
 <hr/>
 <br/>
 
-If you wish to know more about my work, please take a look at [the projects I worked on](projects) or [my publications](publications).
+If you wish to know more details about my work, please take a look at [the projects I worked on](projects) or [my publications](publications).
+
+Take a look at this playlist with the video of the main projects I worked on:
+
+<div class="rwd-video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=RnVQkN_OpmOGMUmZ&amp;list=PLoUkm1MBZa9NhLnsOt0A32OrFJNAdGlqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 <br/><br/>
